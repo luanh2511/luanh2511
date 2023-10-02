@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=096b00&height=120&section=header"/>
 
-
-<h1 align=center color=096b00>Welcome to my GitHub Page!</h1>
+<h1 color=096b00 align=center color=096b00>Welcome to my GitHub Page!</h1>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luanh2511&bg_color=0d1117&color=fff&line=096b00&codeSTACKr&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
