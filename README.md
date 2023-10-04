@@ -31,6 +31,7 @@
   <br/>
   <a href="https://www.linkedin.com/in/luan-dantas-5aa490191/" target="_blank"><img height="40" width="150" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<br/>
 
 [![An image of @luanh2511's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/luanh2511)](https://holopin.io/@luanh2511)
 
