@@ -27,10 +27,11 @@
   <img align="center" alt="Sign" height="30" width="30" src="https://play-lh.googleusercontent.com/mHVR1eiAidGjS3bAhrOyUCHgFMJbVWmPtwOmWgD5mfcnyPWYWzssCuQLRz7e2o9cGw">
 </div>
   
-  ##
 <div align="center"> 
   <br/>
   <a href="https://www.linkedin.com/in/luan-dantas-5aa490191/" target="_blank"><img height="40" width="150" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+[![An image of @luanh2511's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/luanh2511)](https://holopin.io/@luanh2511)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=096b00&height=120&section=footer"/>
