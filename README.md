@@ -5,7 +5,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luanh2511&bg_color=0d1117&color=fff&line=096b00&codeSTACKr&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanh2511&theme=codeSTACKr&layout=compact&langs_count=8&card_width=350" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanh2511&theme=codeSTACKr&layout=compact&langs_count=8&card_width=340" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=luanh2511&title_color=0fb500&icons=true&theme=codeSTACKr&rank_icon=github"/>
