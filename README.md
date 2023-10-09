@@ -24,7 +24,7 @@
   <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="AEM" height="30" width="30" src="https://images.prismic.io/ionicframeworkcom/716b899ff83b650b8d3942837a9ac7e8750450e5_aem.png?auto=compress,format">
   <img align="center" alt="Target" height="50" width="50" src="https://uploads-ssl.webflow.com/5fc4c92bafc1eb148ac8607f/62cb9775c226302451cbff32_72334880.png">
-  <img align="center" alt="Sign" height="30" width="30" src="https://play-lh.googleusercontent.com/mHVR1eiAidGjS3bAhrOyUCHgFMJbVWmPtwOmWgD5mfcnyPWYWzssCuQLRz7e2o9cGw">
+  <img align="center" alt="Sign" href="#" height="30" width="30" src="https://play-lh.googleusercontent.com/mHVR1eiAidGjS3bAhrOyUCHgFMJbVWmPtwOmWgD5mfcnyPWYWzssCuQLRz7e2o9cGw">
 </div>
   
 <div align="center"> 
