@@ -2,9 +2,9 @@
 
 <h1 color=096b00 align=center color=096b00>Welcome to my GitHub Page!</h1>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luanh2511&bg_color=0d1117&color=fff&line=096b00&codeSTACKr&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luanh2511&bg_color=0d1117&color=fff&line=096b00&codeSTACKr&point=fff&area=true&hide_border=true)]
  
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanh2511&theme=codeSTACKr&layout=compact&langs_count=8&card_width=440" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
